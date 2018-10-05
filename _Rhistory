@@ -1,0 +1,341 @@
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[12])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+library(XML)
+library(RCurl);  library(XML)                                           #-- ^(1.2B) download.file 下載ftp檔案
+library(curl)
+library(rvest)
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[12])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+install.packages("XML")
+library(XML)
+install.packages("RCurl")
+library(RCurl);  library(XML)                                           #-- ^(1.2B) download.file 下載ftp檔案
+install.packages("rvest")
+install.packages("curl")
+library(curl)
+library(rvest)
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[12])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+install.packages("MASS")
+install.packages("arules")
+library(MASS)   # library(datasets);   # install.packages("datasets")
+library(arules)   #-- install.packages("arules")   #--association rules的軟件包
+library(RCurl);  library(XML)                                           #-- ^(1.2B) download.file 下載ftp檔案
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[12])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+urlC = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[12])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[13])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+x = iconvlist()
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[13])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[14])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[15])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[16])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[17])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[18])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[19])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[20])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[21])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[22])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[23])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[24])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[25])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[26])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[27])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[28])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[28])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[29])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[30])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[31])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+x
+for( y in 1:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- 32(1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+parsedFirstSearchPage
+print( x[y] )
+Sys.sleep(5)
+}
+for( y in 1:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- 32(1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( x[y] )
+print( parsedFirstSearchPage )
+Sys.sleep(5)
+}
+for( y in 32:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 114:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 227:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 277:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 289:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+library(XML)
+library(RCurl);  library(XML)                                           #-- ^(1.2B) download.file 下載ftp檔案
+library(curl)
+library(rvest)
+for( y in 289:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 306:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 307:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 301:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+for( y in 309:374 ) {
+parsedFirstSearchPage = htmlParse(getURL(urlC),encoding = x[y])                 #-- (1.2C) getURL/htmlParse 網址爬文並剖析 [亞馬遜網站之行動電話數據]
+print( parsedFirstSearchPage )
+print( x[y] )
+print(y)
+Sys.sleep(3)
+}
+addrE = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+H1 <- read_html( curl(addrE, handle = new_handle("useragent" = "Mozilla/5.0")) )
+H1
+as.character(H1)
+addrE = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+H1 <- read_html( addrE) )
+H1
+as.character(H1)
+H1[2]
+H1[1]
+H1
+H1[doc]
+print(H1)
+print(as.character(H1))
+as.list(H1)
+parsedFirstSearchPage
+parsedFirstSearchPage[4]
+x = iconvlist() #-- 這是編碼清單
+x
+help("function") #--
+?plot
+args(plot)
+install.packages("IPSUR")
+install.packages("e1071")
+library(e1071)
+library(qcc)
+install.packages("qcc")
+library(qcc)
+install.packages("IPSUR")
+library(IPSUR)
+fivenum(rivers)
+summary(rivers) #-- 比fivenum多算一個mean
+L = floor((length(rivers)+3)/2)/2
+sort(rivers)[c(L,(length(rivers)+1-L))]
+L = floor((length(rivers)+3)/2)/2
+L
+median(rivers)
+fivenum(rivers)
+boxplot(rivers)  #-- (圖上的O代表離異點)
+boxplot.stats(rivers)$out
+boxplot.stats(rivers, coef=3)$out
+install.packages("httr")
+library(curl)
+library(RCurl);   library(XML)  ; library(httr)
+library(rvest)
+library(XML)
+library(xml2)
+URL = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+X = read_html( curl(URL, handle = new_handle("useragent" = "Mozilla/5.0") ))
+Xtitle <- html_nodes(X, xpath = "//td[@class='b-list__main']/a")
+Xtitle
+Xtitle = html_text( html_nodes(X, xpath = "//td[@class='b-list__main']/a") )
+Xtitle
+Xno = html_text( html_nodes(X, xpath = "//p[@class='b-list__count__number']/span") ) #-- With Reply & Popularity
+Sys.setlocale(category="LC_ALL", locale = "cht") #-- 將系統語言調至中文
+Xreply = Xno[seq(from=1,by=2,to=length(Xno))] #-- Reply
+Xreply
+Xpop = Xno[seq(from=2,by=2,to=length(Xno))] #-- Popularity
+Xpop
+XlastTime = html_text( html_nodes(X, xpath = "//p[@class='b-list__time__edittime']/a") ) #--
+XlastTime
+XGP = html_text( html_nodes(X, xpath = "//span[@class='b-list__summary__gp b-gp b-gp--normal']") ) #-- GP
+XGP
+XGP = html_text( html_nodes(X, xpath = "//span[@class='b-list__summary__gp b-gp']") ) #-- GP
+XGP
+XGPG = html_text( html_nodes(X, xpath = "//span[@class='b-list__summary__gp b-gp b-gp--good']") ) #-- 一般GP
+XGPG
+install.packages("C:/Users/hung8/Desktop/prob_1.0-0.tar.gz", repos = NULL, type = "source")
+install.packages("C:/Users/hung8/Desktop/fAsianOptions_3010.79.tar.gz", repos = NULL, type = "source")
+install.packages("C:/Users/hung8/Desktop/prob_1.0-0.tar.gz", repos = NULL, type = "source")
+install.packages("C:/Users/hung8/Desktop/prob_0.9-2.tar.gz", repos = NULL, type = "source")
+library(curl)
+library(RCurl)
+library(XML)
+library(httr)
+library(rvest)
+library(XML)
+library(xml2)
+URL = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+X = read_html( curl(URL, handle = new_handle("useragent" = "Mozilla/5.0") )) #-- 讀網址
+Xtitle = html_text( html_nodes(X, xpath = "//td[@class='b-list__main']/a") ) #--擷取標題(上面兩行二合一) #-- //代表找相近的位置
+Xtitle
+Xtitle = html_text( html_nodes(X, xpath = "//td[@class='b-list__main__title']/a") ) #--擷取標題(上面兩行二合一) #-- //代表找相近的位置
+Xtitle
+Xtitle2 = html_text( html_nodes(X, xpath = "//td[@class='b-list__main']/span") ) #--擷取標題(上面兩行二合一) #-- //代表找相近的位置
+Xtitle2
+library(curl) ; library(RCurl) ; library(XML)
+library(httr) ; library(XML) ; library(xml2)
+library(rvest) ; library(rJava) ; library(xlsxjars)
+library(xlsx)
+URL = "https://forum.gamer.com.tw/B.php?page=1&bsn=17532"
+X = read_html( curl(URL, handle = new_handle("useragent" = "Mozilla/5.0") )) #-- 讀網址
+Xtitle = html_text( html_nodes(X, xpath = "//*[contains(concat( \" \", @class, \" \" ), concat( \" \", \"b-list__main__title\", \" \" ))]") ) #--擷取標題(上面兩行二合一) #-- //代表找相近的位置
+Xtitle
+Xno = html_text( html_nodes(X, xpath = "//p[@class='b-list__count__number']/span") ) #-- With Reply & Popularity
+Xno
+Xreply = Xno[seq(from=1,by=2,to=length(Xno))] #-- Reply
+Xauth = html_text( html_nodes(X, xpath = "//p[@class='b-list__count__user']/a") ) #-- 作者
+Xauth
+AllData = data.frame( Title=Xtitle, Author=Xauth )
+AllData
+library(prob)
+library(Prob)
+install.packages("F:/大學ㄉ作業&課業/大三/大三上/機率與統計/prob_1.0-0.tar.gz", repos = NULL, type = "source")
+install.packages("C:/Users/hung8/Desktop/prob_1.0-0.tar.gz", repos = NULL, type = "source")
+install.packages("C:/Users/hung8/Desktop/prob_0.9-2.tar.gz", repos = NULL, type = "source")
+library(prob)
+library(prob)
+p <- rep(1/16, times=8)                                  #-- probability p
+A = urnsamples(1:2, size=3, replace=TRUE, ordered=TRUE)  #-- outcomes of events A
+S  = probspace(A, probs=p)       #-- probability space S(events A, probability p)
+A2 = subset(A, X1+X2>=3);  A2    #== event A2 is subset of A
+S2 = subset(S, X1+X2>=3);  S2    #== subspace S2 of probability space S
+A3 = subset(A, X1+X3>=3);  A3    #== event A2 is subset of A
+S3 = subset(S, X1+X3>=3);  S2    #-- subspace S3
+A2and3 = intersect(A2, A3);  A2and3
+S2and3 = subset(S, (X1+X2>=3) & (X1+X3>=3));  S2and3
+Prob(S, X1+X2>=3, given = X1+X3>=3)  #-- conditional probability P(X1+X2>=3 | X1+X3>=3)
+library(Prob)
+# library(curl) ; library(RCurl) ; library(XML)
+# library(httr) ; library(XML) ; library(xml2)
+# library(rvest) ; library(rJava) ; library(xlsxjars)
+# library(xlsx)
+library(curl) ; library(RCurl) ; library(XML)
+library(httr) ; library(XML) ; library(xml2)
+library(rvest) ; library(rJava) ; library(xlsxjars)
+library(xlsx)
+library(prob)
+?urnsamples
+outcomes <- rolldie(1)          #-- <EX1> outcomes (event A)
+outcomes
+p <- rep(1/6, times = 6)        #-- probability p
+p
+probspace(outcomes, probs = p)  #-- probbaility space 機率空間
+outcomes <- rolldie(1)          #-- <EX1> outcomes (event A)
+library(prob)
+urnsamples(1:3, size = 2, replace = TRUE, ordered = TRUE)  #-- (A2) Ordered, With Replacement
+S <- tosscoin(2, makespace=TRUE)
+S
+S[1:3,]
+S[c(2,4),]
+outcomes <- rolldie(1)          #-- <EX1> outcomes (event A)
+outcomes
+p <- rep(1/6, times = 6)        #-- probability p
+p
+?
+probspace
+probspace(outcomes, probs = p)  #-- probbaility space 機率空間
+probspace(1:6, probs = p)       #-- <EX1A>
+probspace(1:6)                  #-- <EX1B>
+R <- rolldie(3)                   #-- <EX2A> event R 事件
+R
+?subset
+prior <- c(0.6, 0.3, 0.1)
+like <- c(0.003, 0.007, 0.01)
+post <- prior * like
+post/sum(post)
+dbinom(2, size=4, prob=1/2)            #-- = 0.375 = fX(2) = C(4,2) (1/2)^2 (1/2)^2 = 6 / 2^4
+X2 = 0:4
+fX2 = dbinom(X2, size=4, prob=1/2)     #-- = fX(x), x = 0,1,2,3,4 = (c(1/16, 4/16, 6/16, 4/16, 1/16))
+?dbinom
+install.packages("distr")
+library(distr)
+install.packages("distrEx")
+library(distrEx)
+alpha = 0.01
+qnorm(1-alpha, mean = 100, sd = 15)               #-- = Qx(0.99) <Ex. 6.18>
+qnorm(c(0.025, 0.01, 0.005), lower.tail = FALSE)  #-- = z0.025, z0.01, z0.005
+plot(qnorm(c(0.025, 0.01, 0.005), lower.tail = FALSE))  #-- = z0.025, z0.01, z0.005
+?qnorm
+library(curl) ; library(RCurl) ; library(XML)
+library(httr) ; library(XML) ; library(xml2)
+library(rvest) ; library(rJava) ; library(xlsxjars)
+library(xlsx) ; library(stringr) ; library(plyr)
+library(data.table) ; library(arules)
+X = read.csv("TestData-1.csv", quote = "")
+setwd("F:/大學ㄉ作業&課業/大三/大三上/從數據分析到知識分析/Project")
+X = read.csv("TestData-1.csv", quote = "")
+colnames(X) <- c("", "Title",	"Category",	"Href",	"ReplyNO",	"PopNO",	"Author", "CommentNum")
+X$nch = sapply(X$Title, FUN=function(x)nchar(as.character(x)))
+dim(X);   names(X);    head(X)
+Cv = ddply(X, c("Author"), summarise, Times=unique(length(Title)), AC=max(as.integer(CommentNum)), POP=sum(as.integer(PopNO) ))
+head( Cv[order(as.integer(Cv$AC), decreasing = TRUE),] )

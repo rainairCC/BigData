@@ -1,0 +1,11 @@
+戰隊 nTeam
+比賽 nGame
+
+官方 nGM
+實況 nLive
+
+道具 nItem
+角色 nChar
+
+觀念 nConcept
+技能 nSkill
